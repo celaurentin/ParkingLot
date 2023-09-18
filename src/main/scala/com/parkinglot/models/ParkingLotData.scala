@@ -1,4 +1,4 @@
-package com.foo.models
+package com.parkinglot.models
 
 case class ParkingLotData(
   siteId: String,

@@ -1,6 +1,6 @@
-package com.foo
+package com.parkinglot
 
-import com.foo.Utils._
+import com.parkinglot.Utils._
 
 object Solution {
 

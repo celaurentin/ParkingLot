@@ -1,6 +1,6 @@
-package com.foo
+package com.parkinglot
 
-import com.foo.models.ParkingLotData
+import com.parkinglot.models.ParkingLotData
 
 object Utils {
 
